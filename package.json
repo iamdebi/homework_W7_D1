@@ -2,13 +2,22 @@
   "name": "homework",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -w"
+    "build": "webpack -w"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdebi/homework_W7_D1.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamdebi/homework_W7_D1/issues"
+  },
+  "homepage": "https://github.com/iamdebi/homework_W7_D1#readme",
   "dependencies": {
     "vue": "^2.6.11"
   },
